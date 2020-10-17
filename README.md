@@ -188,15 +188,7 @@ without harming the environment in the process.
 
 ### Conclusion:
 
-Invasive species are species that are not native to their current evironment and
-will likely cause harm to the environment. Invasive species can be any life form. 
-An example of invasive species in Arizona is Buffelgrass. Buffelgrass is native to
-Africa, the Middle East, and Asia, but it has become an invasive species in the
-Sonoran desert. The buffelgrass has resulted in more severe wildfires. These 
-wildfires have burned native plants and caused habitat loss for native animals. 
-CRISPR gene editing to bioengineer a heat resistance gene into the buffelgrass 
-genome. Then, the buffelgrass would not be an invasive species, just a non-native
-species.
+Invasive species are species that are not native to their current environment and will likely cause harm to the environment. Invasive species can be any life form. An example of invasive species in Arizona is Buffelgrass. Buffelgrass is native to Africa, the Middle East, and Asia, but it has become an invasive species in the Sonoran desert. The buffelgrass has resulted in more severe wildfires. These wildfires have burned native plants and caused habitat loss for native animals. CRISPR gene editing to bioengineer a heat resistance gene into the buffelgrass genome. Then, the buffelgrass would not be an invasive species, just a non-native species.
 
 ____________________________________________________________________________________________________________________________________________
 
