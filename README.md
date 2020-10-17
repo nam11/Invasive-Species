@@ -120,24 +120,24 @@ ________________________________________________________________________________
 
 ## Works Cited:
 
-Subcommittee of the Invasive Species Advisory Committee. (2006). What are Invasive Species?. *United States Department of 
+Subcommittee of the Invasive Species Advisory Committee. (2006). What are Invasive Species?. *United States Department of      
 ................Agriculture*. doi:     
 ................[https://www.invasivespeciesinfo.gov/what-are-invasive-species](https://www.invasivespeciesinfo.gov/what-are-invasive-species)
 
-Arizona Invasive Species Advisory Council. (2008). Arizona Invasive Species Management Plan. *Arizona Invasive Species 
+Arizona Invasive Species Advisory Council. (2008). Arizona Invasive Species Management Plan. *Arizona Invasive Species      
 .................Advisory Council*. doi:     
 .................[https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf](https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf)
 
-Mercer, R. G., Zheng, J., Garcia-Hernandez, R., Ruan, L., Gänzle, M. G., & McMullen L. M. (2015). Genetic determinants      
+Mercer, R. G., Zheng, J., Garcia-Hernandez, R., Ruan, L., Gänzle, M. G., & McMullen L. M. (2015). Genetic determinants          
 ................of heat resistance in Escherichia coli. *Front Microbial*. doi:     
 ................[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563881/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563881/)
 
-Porterfield, A. (2018). Using gene editing to control forest fires? It could be a reality if anti-biotechnology activists     
-................don’t block it. *Genetic Literacy Project*. doi:     
+Porterfield, A. (2018). Using gene editing to control forest fires? It could be a reality if anti-biotechnology activists         
+................don’t block it. *Genetic Literacy Project*. doi:          
 ................[https://geneticliteracyproject.org/2018/10/23/](https://geneticliteracyproject.org/2018/10/23/using-gene-editing-to-control-forest-fires-it-could-be-a-reality-if-anti-biotechnology-activists-dont-block-it/)
 
-Molla, K. A., & Yang, Y. (2019). CRISPR/Cas-mediated base editing: Technical considerations and practical applications. *Trends      
-...............in Biotechnology, 37(10), 1121-1142*. doi:          
+Molla, K. A., & Yang, Y. (2019). CRISPR/Cas-mediated base editing: Technical considerations and practical applications. *Trends           
+...............in Biotechnology, 37(10), 1121-1142*. doi:               
 ...............[http://dx.doi.org.ezproxy1.lib.asu.edu/10.1016/j.tibtech.2019.03.008](http://dx.doi.org.ezproxy1.lib.asu.edu/10.1016/j.tibtech.2019.03.008)
 
 Bischoff, N., Wimberger, S., Maresca, M., & Brakebusch, C. (2020). Improving precise CRISPR genome editing by small      
